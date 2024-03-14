@@ -1,0 +1,93 @@
+/* Comentário CSS */
+body {
+    padding: 20px;
+ 
+
+}
+
+p{
+    color: #333;
+}
+
+/* Classe*/
+
+.paragrafo-diferentao {
+    background-color: black;
+
+}
+
+.paragrafo-diferentao-azul {
+    background-color: blue;
+
+}
+
+/* ID */
+#titulo-principal{
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+    font-family: Helvetica;
+}
+/* ID dois */
+#titulo-principal-dois{
+    background-color: yellow;
+    color: blueviolet;
+    padding: 10px;
+    font-family: Helvetica;
+}
+
+/* Fonte pagina */
+
+* {
+    font-family: Arial;
+}
+
+p, 
+h1 {
+    border-top: 1px solid red;
+    /*border-bottom: 1px solid blue;*/
+}
+
+/* cor da fonte */
+
+.nome-da-cor{
+    color: pink;
+}
+.hexa{
+    color:#332245;
+    background-color:#999;
+}
+
+.rgb{
+    color: rgb(3, 93, 22);
+    font-size: 30px;
+    
+}
+
+/* estilo da fonte */
+.serifada{
+    font-family: Georgia;
+}
+
+.sem-serifa{
+    font-family: Helvetica;
+}
+
+.mono-espacada{
+    font-family: 'Courier New';
+}
+
+.fonte-pequena{
+    font-size: 8px;
+}
+
+.fonte-grande{
+    font-size: 35px;
+}
+
+.peso-fonte{
+    font-weight: 1000;
+}
+
+
+
